@@ -1,0 +1,8 @@
+To run, follow these steps:
+1) Open the 'credentials.properties' file and write your credentials.
+2) Place the 'Chrome Web Driver' in the /Drivers folder.
+  For eg, if you save the code in C:/FBWish
+  Then you must have chrome web driver in C:/FBWish/Drivers
+  
+  
+  Driver can be found at : http://chromedriver.chromium.org/downloads
