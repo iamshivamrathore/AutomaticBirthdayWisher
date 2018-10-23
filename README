@@ -4,5 +4,6 @@ To run, follow these steps:
   For eg, if you save the code in C:/FBWish
   Then you must have chrome web driver in C:/FBWish/Drivers
   
-  
-  Driver can be found at : http://chromedriver.chromium.org/downloads
+3) Run: AutomaticBirthday.java
+
+Note: Driver can be found at : http://chromedriver.chromium.org/downloads
