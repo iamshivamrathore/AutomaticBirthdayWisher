@@ -6,4 +6,7 @@ To run, follow these steps:
   
 3) Run: AutomaticBirthday.java
 
+Automatic Log out may not work due to certain changes in selectors.
+Update coming soon
+
 Note: Driver can be found at : http://chromedriver.chromium.org/downloads
